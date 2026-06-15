@@ -351,8 +351,8 @@ body {
 // ═══════════════════════════════════════════════════════════════
 const RESEARCHER_CFG = {
   serverURL:           '',       // e.g. 'https://yourserver.com/save_data.php'
-  completionCode:      'XXXXXXXX',
-  prolificRedirectURL: '',
+  completionCode:      'C165FXUU',
+  prolificRedirectURL: '// https://app.prolific.com/submissions/complete?cc=C165FXUU',
 };
 
 // ═══════════════════════════════════════════════════════════════
